@@ -1,6 +1,6 @@
 # name gilang adhatul sukri
 # nim 2611532016
-# question 5
+# question 6
 
 full_name = " Siti Aisyah "
 nim = "2610511023"
