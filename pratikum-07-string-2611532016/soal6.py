@@ -8,7 +8,7 @@ nim = "2610511023"
 clean = full_name.strip().lower()
 space = clean.find(" ")
 if space == -1:
-    first = clean            # nama satu kata
+    first = clean
 else:
     first = clean[:space]
 username = first + nim[-3:]
